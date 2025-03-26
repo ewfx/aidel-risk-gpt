@@ -17,8 +17,7 @@
 Our project focuses on transaction risk analysis, aiming to detect fraudulent or high-risk transactions in financial data. We utilize data preprocessing, statistical analysis, and AI techniques to identify suspicious patterns and anomalies.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+🔗 [Live Demo](https://drive.google.com/file/d/1kitUfcWDWdrkR1t8ue-FehAcSpb-RSQk/view?usp=sharing)  
 🖼️ Screenshots:
 
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/09292ef2-3ff5-4c7c-b4fb-9f3da8a3b095" />
