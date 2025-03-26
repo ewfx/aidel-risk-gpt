@@ -81,7 +81,7 @@ We thought of calling a proper LLM to summarise the risk reasoning. We had to ch
 - 🔹 Other: Google Gemini API: gemini-1.5-flash-8b
 
 ## 👥 Team
-- **Samyak Bakliwal** - [[GitHub](https://github.com/samyakbakliwal7)](#) | [LinkedIn](#)
-- **Aakriti Saraogi** - [[GitHub](#)](https://github.com/aakritisaraogi) | [LinkedIn](#)
-- **Atharva Marathe** - [[GitHub](#)](https://github.com/atharvamarathe) | [LinkedIn](#)
-- **Wandari Blah** - [GitHub](#) | [LinkedIn](#)
+- **Samyak Bakliwal** - [[GitHub](https://github.com/samyakbakliwal7)](#) | [LinkedIn](https://www.linkedin.com/in/samyakbakliwal7/)
+- **Aakriti Saraogi** - [[GitHub](#)](https://github.com/aakritisaraogi) | [LinkedIn](https://www.linkedin.com/in/aakritisaraogi/)
+- **Atharva Marathe** - [[GitHub](#)](https://github.com/atharvamarathe) | [LinkedIn](https://www.linkedin.com/in/atharva-marathe-6195621a5/)
+- **Wandari Blah** - [LinkedIn](https://www.linkedin.com/in/wandari-blah-95591711/)
