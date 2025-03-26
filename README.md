@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 RiskGPT
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,14 +14,23 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Our project focuses on transaction risk analysis, aiming to detect fraudulent or high-risk transactions in financial data. We utilize data preprocessing, statistical analysis, and AI techniques to identify suspicious patterns and anomalies.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+![Screenshot 1](<img width="1432" alt="image" src="https://github.com/user-attachments/assets/29ebb21c-0314-4e2b-87cc-e5fa8a12324d" />
+)
+![Screenshot 2](<img width="1438" alt="image" src="https://github.com/user-attachments/assets/c4bba139-1e4f-445d-adec-52dfdefcfed7" />
+)
+![Screenshot 3](<img width="1429" alt="image" src="https://github.com/user-attachments/assets/44b03f0a-cb40-4012-bb30-991de6c9a7e0" />
+)
+![Screenshot 3](![image](https://github.com/user-attachments/assets/678183bf-35db-4fb3-aae7-da65955cbe44)
+)
+![Screenshot 3](<img width="1432" alt="image" src="https://github.com/user-attachments/assets/cfb916e8-ac1e-4ceb-98a0-00c7d7d81371" />
+)
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
