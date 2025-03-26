@@ -21,12 +21,10 @@ Our project focuses on transaction risk analysis, aiming to detect fraudulent or
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
-!<img width="1430" alt="Screenshot 2025-03-26 at 5 53 50 PM" src="https://github.com/user-attachments/assets/008dc8ef-5bfc-44d2-9841-d42f0cbe634d" />
-
-![Screenshot 2](<img width="1438" alt="image" src="https://github.com/user-attachments/assets/c4bba139-1e4f-445d-adec-52dfdefcfed7" />)
-![Screenshot 3](<img width="1429" alt="image" src="https://github.com/user-attachments/assets/44b03f0a-cb40-4012-bb30-991de6c9a7e0" />)
-![Screenshot 4](![image](https://github.com/user-attachments/assets/678183bf-35db-4fb3-aae7-da65955cbe44))
-![Screenshot 5](<img width="1432" alt="image" src="https://github.com/user-attachments/assets/cfb916e8-ac1e-4ceb-98a0-00c7d7d81371" />)
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/c4bba139-1e4f-445d-adec-52dfdefcfed7"/>
+<img width="1429" alt="image" src="https://github.com/user-attachments/assets/44b03f0a-cb40-4012-bb30-991de6c9a7e0"/>
+(https://github.com/user-attachments/assets/678183bf-35db-4fb3-aae7-da65955cbe44)
+<img width="1432" alt="image" src="https://github.com/user-attachments/assets/cfb916e8-ac1e-4ceb-98a0-00c7d7d81371" />
 
 ## 💡 Inspiration
 Traditional fraud detection methods rely on static rules, making them ineffective against evolving fraud patterns. This project leverages AI to provide a dynamic, intelligent fraud detection system that adapts to new threats in real-time. 
