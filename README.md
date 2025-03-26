@@ -21,9 +21,10 @@ Our project focuses on transaction risk analysis, aiming to detect fraudulent or
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
+<img width="1432" alt="image" src="https://github.com/user-attachments/assets/09292ef2-3ff5-4c7c-b4fb-9f3da8a3b095" />
 <img width="1438" alt="image" src="https://github.com/user-attachments/assets/c4bba139-1e4f-445d-adec-52dfdefcfed7"/>
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/44b03f0a-cb40-4012-bb30-991de6c9a7e0"/>
-(https://github.com/user-attachments/assets/678183bf-35db-4fb3-aae7-da65955cbe44)
+<img width="1424" alt="image" src="https://github.com/user-attachments/assets/967d5411-08a6-4490-a6e0-c4d78c3dab34" />
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/cfb916e8-ac1e-4ceb-98a0-00c7d7d81371" />
 
 ## 💡 Inspiration
